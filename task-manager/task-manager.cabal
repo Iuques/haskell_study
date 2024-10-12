@@ -2,8 +2,8 @@ cabal-version:       2.2
 
 name:                task-manager
 version:             0.1.0.0
--- synopsis:
--- description:
+-- synopsis: a simple implementation of a "to-do" list
+-- description: you can create tasks, visualize your tasks and mark tasks as complete
 homepage:            https://github.com/githubuser/task-manager#readme
 license:             BSD-3-Clause
 license-file:        LICENSE
@@ -13,7 +13,6 @@ copyright:           2024 Author name here
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md
-                     CHANGELOG.md
 
 library
   hs-source-dirs:      src
