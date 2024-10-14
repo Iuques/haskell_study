@@ -4,8 +4,8 @@ Este repositório contém uma coleção de exercícios e projetos desenvolvidos 
 
 ## Conteúdos do Repositório
 
-### 📘 **/livro-stenio-haskell**
-Este diretório contém exercícios realizados com base no livro **"Introdução ao Haskell"** dos autores *Stenio Melo Araújo* e *Benedito Melo Acióly*. O livro está disponível gratuitamente para leitura [aqui](http://www2.uesb.br/editora/wp-content/uploads/Introducao-ao-Haskel.pdf). 
+### 📘 **livro_intro-haskell-stenio/**
+Este diretório contém exercícios realizados com base no livro **"Introdução ao Haskell"**. O livro está disponível gratuitamente para leitura [aqui](http://www2.uesb.br/editora/wp-content/uploads/Introducao-ao-Haskel.pdf). 
 
 O conteúdo deste livro abrange conceitos fundamentais de Haskell, como:
 - Tipos de Dados e Operadores
@@ -14,7 +14,7 @@ O conteúdo deste livro abrange conceitos fundamentais de Haskell, como:
 - Funções de Alta Ordem
 - Polimorfismo
 
-### ✅ **/task-manager**
+### ✅ **task-manager/**
 Este diretório contém um pequeno projeto de um **gerenciador de tarefas** (ou "to-do list") desenvolvido em Haskell. O projeto foi criado para aplicar na prática alguns dos conceitos aprendidos, como:
 - Manipulação de listas
 - Funções recursivas
